@@ -1,0 +1,4 @@
+/vendor
+/phpdotenv
+.env
+*.swp
